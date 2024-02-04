@@ -1,4 +1,4 @@
-# Tip/Split Calculator Mobile App
+# TipSplit Calculator Mobile App
 
 ## Overview
 
